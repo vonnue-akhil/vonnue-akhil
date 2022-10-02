@@ -1,7 +1,7 @@
 ### Hello World👋
 - 🌱 I’m currently learning JavaScript
 - 🧑🏽‍💻 I'm improving myself 
-
+[![GitHub Streak](https://streak-stats.demolab.com/?user=APJ-9)](https://git.io/streak-stats)
 
 <!--
 **APJ-9/APJ-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
