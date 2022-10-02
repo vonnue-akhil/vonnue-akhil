@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 -->
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=APJ-9&theme=buefy&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)]
+![GitHub Streak](https://streak-stats.demolab.com?user=APJ-9&theme=buefy&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D)
