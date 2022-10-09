@@ -1,6 +1,6 @@
 ### Hello World👋
 - 🌱 I’m currently learning JavaScript
-- 🧑🏽‍💻 I'm improving myself 
+
 
 
 
