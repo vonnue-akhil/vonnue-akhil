@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Streak 🔥
-![GitHub Streak](https://streak-stats.demolab.com/?user=APJ-9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=APJ-)
 
-![Akhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=APJ-9&theme=react-dark)
+![Akhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=AP-9&theme=react-dark)
