@@ -18,6 +18,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=APJ-9&theme=tokyonight&show_icons=true&hide=["issues"])
+![](https://komarev.com/ghpvc/?username=APJ-9)
+
 -->
 
 ### GitHub Streak 🔥
@@ -33,7 +37,6 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
-![Piyush's github stats](https://github-readme-stats.vercel.app/api?username=APJ-9&theme=tokyonight&show_icons=true&hide=["issues"])
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APJ-9&theme=tokyonight&layout=compact)
 
-![](https://komarev.com/ghpvc/?username=APJ-9)
