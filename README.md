@@ -25,12 +25,9 @@ Here are some ideas to get you started:
 -->
 
 ### GitHub Streak 🔥
-![GitHub Streak](https://streak-stats.demolab.com/?user=APJ-9)
+![GitHub Streak](https://streak-stats.demolab.com/?user=APJ-9)&emsp;&emsp;&emsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APJ-9&theme=tokyonight&layout=compact)
 
-![Akhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=APJ-9&theme=react-dark)
-
-**Languages:**  
-
+**Languages:** 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -38,5 +35,7 @@ Here are some ideas to get you started:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=APJ-9&theme=tokyonight&layout=compact)
+![Akhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=APJ-9&theme=react-dark)
+
+
 
