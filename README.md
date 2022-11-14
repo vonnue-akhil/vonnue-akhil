@@ -1,4 +1,4 @@
-### Hello World👋
+### Hello World 👨🏻‍💻
 - 🌱 I’m currently learning React
 - 🔭 I’m currently working on Myself
 
