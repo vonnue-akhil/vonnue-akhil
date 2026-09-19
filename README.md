@@ -1,31 +1,21 @@
-### Hello World 👨🏻‍💻
+## Hi, I'm Akhil Jose 👋
 
-### 🔭 I’m currently working on myself
-<!--
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15DA00&width=435&lines=Always+Learn+something...)](https://git.io/typing-svg)
+### Associate Technical Lead | Frontend Engineer | Full-Stack Developer | AI Enthusiast
 
+Associate Technical Lead and Software Engineer with experience in designing and delivering scalable, maintainable, and user-centric software solutions. Focused on technical leadership, engineering excellence, and translating complex business requirements into reliable, high-quality products. Actively leveraging modern development practices and AI-driven tools to improve engineering productivity and delivery.
 
-**APJ-9/APJ-9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* 💻 Experienced with **Vue.js, React, TypeScript, JavaScript & React Native**
+* ⚙️ Expanding into **Node.js, Backend Engineering & System Design**
+* 🤖 Exploring **Generative AI, AI Agents, RAG & MCP**
+* ☁️ Interested in **Cloud, APIs, automation & scalable systems**
+* 🚀 Passionate about learning, building, and solving real-world problems
 
-Here are some ideas to get you started:
+### Tech Stack
 
-![Akhil's github activity graph](https://activity-graph.herokuapp.com/graph?username=vonnue-akhil&theme=react-dark)
-![Akhil's github stats](https://github-readme-stats.vercel.app/api?username=vonnue-akhil&theme=tokyonight&show_icons=true&hide=["issues"])
-![](https://komarev.com/ghpvc/?username=vonnue-akhil)
+**Frontend:** Vue.js · React · TypeScript · JavaScript · Vuetify · Tailwind CSS
+**Backend:** Node.js · REST APIs
+**Database/Cloud:** Firebase · Firestore · AWS
+**Tools:** Git · GitHub · Vite · Vitest · Storybook
+**AI:** GenAI · AI Agents · RAG · MCP
 
--->
-### GitHub Streak 🔥
-![GitHub Streak](https://streak-stats.demolab.com/?user=vonnue-akhil)&emsp;&emsp;&emsp;
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vonnue-akhil&theme=tokyonight&layout=compact)
-
-**Languages:** 
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vue/vue.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png"></code>
--->
+> **Build. Learn. Improve. Repeat.**
